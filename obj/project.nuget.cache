@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "aERUIk0OirJvpoN0SWf6pMMw/sBa05FiUufrYJ1eBDbLlajWTn9Sa3vxfUGTOd4my5sMFSb5jKKRBlGFQVe4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jukie\\Downloads\\ExampleItem\\AtomicLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jukie\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\costura.fody\\5.7.0\\costura.fody.5.7.0.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\fody\\6.8.1\\fody.6.8.1.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\harmonyx\\2.12.0\\harmonyx.2.12.0.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\microsoft.netcore.targets\\5.0.0\\microsoft.netcore.targets.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\mono.cecil\\0.11.5\\mono.cecil.0.11.5.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\monomod.backports\\1.1.1\\monomod.backports.1.1.1.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\monomod.core\\1.1.1\\monomod.core.1.1.1.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\monomod.ilhelpers\\1.0.1\\monomod.ilhelpers.1.0.1.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\monomod.runtimedetour\\25.1.1\\monomod.runtimedetour.25.1.1.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\monomod.utils\\25.0.5\\monomod.utils.25.0.5.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jukie\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

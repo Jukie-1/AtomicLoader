@@ -1,0 +1,15 @@
+C:\Users\Jukie\Downloads\ExampleItem\bin\Release\netstandard2\AtomicLoader.deps.json
+C:\Users\Jukie\Downloads\ExampleItem\bin\Release\netstandard2\AtomicLoader.dll
+C:\Users\Jukie\Downloads\ExampleItem\bin\Release\netstandard2\AtomicLoader.pdb
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.csproj.AssemblyReference.cache
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.Properties.Resources.resources
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.csproj.GenerateResource.cache
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\MyPluginInfo.cs
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.AssemblyInfoInputs.cache
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.AssemblyInfo.cs
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.csproj.CoreCompileInputs.cache
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.dll
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.pdb
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.csproj.Fody.CopyLocal.cache
+C:\Users\Jukie\Downloads\ExampleItem\obj\Release\netstandard2\AtomicLoader.csproj.Fody.RuntimeCopyLocal.cache
